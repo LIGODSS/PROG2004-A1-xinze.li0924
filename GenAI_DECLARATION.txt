@@ -1,0 +1,11 @@
+I acknowledge that I have used Generative AI tools to complete this assessment
+in accordance with the conditions outlined in the Assessment Brief. I used
+OpenAI Codex to generate an initial implementation, review the object-oriented
+structure, improve documentation, and check the console demonstration.
+
+Student name: Xinze Li (Li Xinze)
+Student number: 25258952
+Date: 16 November 2026
+
+Before submission: confirm that this statement accurately describes your use
+and be prepared to explain every part of the submitted code.
